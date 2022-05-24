@@ -11,19 +11,13 @@ body {
     
 }
 header {
+    height: 60px;
+    padding-top:10px ;
+    margin-bottom: 30px;
     background-color: white;
-    height: 70px;
-    padding top: 10px;
-    margin bottom: 10px;
-
-}
-.top {
-    margin-bottom: 3px;
-}
-.task {
-    margin-top: 5px;
     
-}
+}   
+    
 .border {
     border-style: solid #f6f8f9;
 }
@@ -50,12 +44,10 @@ main {
 
 .container {
     width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 5%;
+    margin: auto;
     background-color: white;
     border-radius: 5px;
-    height: 630px;
+    height: 700px;
     text-align: left;
 }
 .top {
