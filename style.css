@@ -41,23 +41,27 @@ header {
 
 /*main*/
  }
- main{
+ main {
      text-align: center;
      line-height: 2;
  }
  .container {
-    width: 700px;
+    width: 630px;
     margin: auto;
     background-color: white;
     border-radius: 7px;
-    height: 800px;
+    height: 700px;
     text-align: left;
 
+
+}
+hr {
+    border: solid rgb(209, 208, 208);
 }
 /*list*/
 .list {
     margin: 30px 40px;
-}
+}    
 ul {
     list-style: none;
 }
@@ -120,6 +124,7 @@ ul {
     text-align: center;
     font-size: 10px;
     color: lightseagreen;
+    
 }
 .circle2 {
     border: 1px solid red;
@@ -130,4 +135,5 @@ ul {
     text-align: center;
     font-size: 10px;
     color: red;
+    
 }
