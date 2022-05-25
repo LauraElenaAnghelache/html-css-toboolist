@@ -119,7 +119,7 @@ ul {
 .circle {
     border: 1px solid lightseagreen;
     border-radius: 50%;
-    margin-right: 10px;
+    margin-left: 5px;
     width: 15px;
     height: 15px;
     display: inline-block;
@@ -137,5 +137,5 @@ ul {
     text-align: center;
     font-size: 10px;
     color: red;
-    
+    margin-left: 5px;
 }
